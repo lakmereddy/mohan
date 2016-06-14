@@ -8,8 +8,8 @@
     <property name="main.class"  value="oata.HelloWorld"/>
 	<property name="report.dir"  value="${bld}/junitreport"/>
 	<property name="url"  value="http://localhost:8081/manager/text"/>
-	<property name="username"  value="MRMR"/>
-	<property name="password"  value="11441"/>
+	<property name="username"  value="lokesh"/>
+	<property name="password"  value="11421"/>
 	<property name="path" value="/mohan"/>
 
     <path id="classpath">
